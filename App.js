@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {auth}  from './firebase_config'
 import {createUserWithEmailAndPassword, onAuthStateChanged, signOut, signInWithEmailAndPassword} from '@firebase/auth'
-import { async } from '@firebase/util'
+
 
 
 const App = () => {
