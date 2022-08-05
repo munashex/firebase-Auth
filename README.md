@@ -1,2 +1,4 @@
 # firebase-Auth
-React firebase authentication 
+React firebase authentication  
+npm i firebase 
+npx create-react-app ./
